@@ -109,21 +109,4 @@ Once the dependencies are installed, follow these steps to start your project:
 
 ---
 
-### Summary of Installation Commands:
 
-#### Frontend (React):
-```bash
-npm install axios@1.5.0
-npm install react-router-dom@6.6.1
-npm install @react-google-maps/api@2.2.0
-npm install react-bootstrap@2.7.0
-```
-
-#### Backend (Express):
-```bash
-npm install express@4.18.2
-npm install mongoose@6.7.2
-npm install cors@2.8.5
-```
-
-Let me know if you need more clarification or additional setup!
