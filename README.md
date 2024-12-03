@@ -1,7 +1,4 @@
-Here’s how you can set up the required dependencies for your **React** and **Express** project with clear installation steps, similar to the example you provided.
-
----
-
+**Requirements** 
 ### 1. **Node.js Installation**  
 Ensure Node.js is installed on your system before starting the project.  
 Download the latest version (e.g., 18.x or your preferred version) from the official Node.js website: [Node.js Download](https://nodejs.org/).
